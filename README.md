@@ -30,6 +30,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
@@ -40,67 +42,26 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
+## Sector Overview & Market Dynamics
+
+The global AI writing and text processing market is currently estimated between **$1.7B and $3.4B**, with projections accelerating past **$8B to $20B+ by the early 2030s** at a 22–27% CAGR. The sector exhibits a distinct **dual-layer market dynamic**: it is heavily **concentrated** at the foundational infrastructure layer dominated by mega-cap LLM providers and big-tech workspace ecosystems (e.g., Microsoft Copilot, Google Workspace), while remaining **moderately to highly fragmented** at the application layer where hundreds of specialized tools compete on niche workflows, domain customization, and vertical integrations.
+
+
+
 ## SaaS/Hosted Platforms
 
-
-
-- **[Grammarly](https://www.grammarly.com/)**  
-
-  AI writing assistant with grammar, spelling, tone, and clarity suggestions. Features **generative AI** for rewriting, **plagiarism detection**, and **browser/desktop integration** across all writing surfaces.
-
-
-
-- **[Jasper](https://www.jasper.ai/)**  
-
-  Enterprise AI marketing platform with **brand voice**, **campaign workflows**, and **Jasper Chat**. Features **knowledge base** grounding and team collaboration.
-
-
-
-- **[Copy.ai](https://www.copy.ai/)**  
-
-  AI copywriting platform with 90+ templates for ads, emails, blogs, and social posts. Features **workflow automation** and **GTM AI** for sales/marketing teams.
-
-
-
-- **[Writesonic](https://writesonic.com/)**  
-
-  AI content platform with article writer, SEO optimizer, and chatbot builder. Features **bulk content generation** and **API access**.
-
-
-
-- **[Rytr](https://rytr.me/)**  
-
-  Affordable AI writing assistant with 40+ use cases and 30+ languages. Features **tone selection** and **plagiarism checking**.
-
-
-
-- **[Wordtune](https://www.wordtune.com/)**  
-
-  AI writing companion for rewriting, summarizing, and translating. Features **sentence-level rewrites** and **tone adjustment**.
-
-
-
-- **[Anyword](https://anyword.com/)**  
-
-  AI writing platform with **predictive performance scores** for ad copy, emails, and landing pages. Features **audience targeting** and **A/B testing integration**.
-
-
-
-- **[QuillBot](https://quillbot.com/)**  
-
-  **The most recognized paraphrasing tool** with summarizer, grammar checker, and citation generator. **Free tier available**; Premium from $9.99/month.
-
-
-
-- **[Notion AI](https://www.notion.so/product/ai)**  
-
-  AI features embedded across Notion's all-in-one workspace. **Q&A across your entire workspace**, AI writing assistance, autofill database properties, and AI meeting notes.
-
-
-
-- **[Writer.com](https://writer.com/)**  
-
-  Enterprise AI writing and knowledge platform. Features **AI-powered document Q&A**, **style guides**, and **brand-consistent content generation**.
+| Product | Valuation / Scale | Starting Paid Tier Pricing | Free Tier / Trial Limit | Key Highlights & Capabilities |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Grammarly](https://www.grammarly.com/)** | **$13B valuation** (~$700M+ ARR) | **$12/month** (billed annually at $144/yr) or $30/month | **Free Forever Plan**: Capped at 100 generative AI prompts/month, standard grammar/spelling/basic tone checks, max 300 docs or 150k words/month | AI writing assistant with grammar, spelling, tone, and clarity suggestions, generative rewriting, plagiarism detection, and browser/desktop integrations. |
+| **[Notion AI](https://www.notion.so/product/ai)** | **$11B valuation** (~$600M–$800M+ ARR) | **$20/member/month** (Business plan, billed annually) or $24/member/month | **Limited Free Trial**: One-time trial allowance of ~20 complimentary AI responses per member (no recurring free monthly AI reset) | Deeply embedded AI writing assistant, workspace Q&A, research agent, meeting notes summarizer, and automated database property autofill across Notion. |
+| **[Writer.com](https://writer.com/)** | **$1.9B valuation** (~$47M–$84M ARR) | **$29/user/month** (Starter plan, billed annually) or $39/user/month | **14-Day Free Trial**: Up to 5 seats, fixed usage credits, 1 GB Knowledge Graph storage, 3 scheduled routines (no credit card required) | Enterprise generative AI platform and Knowledge Graph featuring document Q&A, custom style guides, AI agents, and brand-consistent content generation. |
+| **[Jasper](https://www.jasper.ai/)** | **$1.5B peak valuation** (~$55M–$88M ARR) | **$39/month** (Creator plan, billed annually) or $49/month | **7-Day Free Trial**: Full access to Creator/Pro tier features (credit card required; auto-renews unless canceled; no permanent free tier) | Enterprise AI marketing platform with customizable brand voices, end-to-end campaign workflows, knowledge base grounding, and Jasper Chat. |
+| **[Copy.ai](https://www.copy.ai/)** | **$300M–$500M valuation** (~$30M+ ARR) | **$24/month** (Chat plan, billed annually) or $29/month | **Limited Free Tier**: 2,000 words/month free generation cap and basic chat access (or trial access to GTM workflows) | AI copywriting and GTM automation platform with 90+ templates, multi-model chat access, sales workflows, and AI marketing agents. |
+| **[Anyword](https://anyword.com/)** | **~$30M–$100M ARR** (Series B funded) | **$39/month** (Starter plan, billed annually) or $49/month | **7-Day Free Trial**: Capped at 2,500 words of generated content (no permanent free tier) | Performance-focused copywriting platform featuring predictive performance scoring for ad copy, landing pages, and email campaigns. |
+| **[Writesonic](https://writesonic.com/)** | **~$33M+ ARR** (Seed/YC backed) | **$79/month** (Starter plan, billed annually) or $99/month | **Free Forever / Test Tier**: 1 AI article/month, 3 Chatsonic agent generations/month, 1 site audit up to 100 pages using lightweight models | AI content generation platform featuring long-form article writers, SEO optimization, and the Botsonic custom chatbot builder. |
+| **[QuillBot](https://quillbot.com/)** | **~$27M–$36M+ ARR** (Learneo / Course Hero) | **$4.17/month** (Premium, billed annually at $49.95/yr) or $19.95/month | **Free Forever Plan**: 125 words per paraphraser run (Standard & Fluency modes), 1,200 words summarizer, 10 AI detector scans/day | Category leader in paraphrasing, summarization, grammar checking, citation generation, and AI text detection. |
+| **[Wordtune](https://www.wordtune.com/)** | **AI21 Labs parent ($300M+ raised, $1.4B valuation)** | **$6.99/month** (Advanced plan, billed annually) or $13.99/month | **Free Forever Plan**: 10 rewrites/AI suggestions per day, 3 AI summaries per month via Wordtune Read, unlimited grammar checks | AI writing companion offering sentence-level rewrites, fluency and tone adjustments, and context-aware reading summaries. |
+| **[Rytr](https://rytr.me/)** | **Multi-million ARR** (Acquired / bootstrapped scale) | **$7.50/month** (Unlimited plan, billed annually) or $9/month | **Free Forever Plan**: 10,000 characters per month (~1,500–1,800 words), 40+ use cases, 1 language selection | Budget-friendly AI writing assistant supporting 40+ use cases, 30+ languages, tone matching, and short-form copy drafting. |
 
 
 
