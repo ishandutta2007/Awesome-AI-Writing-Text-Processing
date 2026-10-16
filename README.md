@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Writing-Text-Processing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Writing-Text-Processing?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Writing-Text-Processing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Writing-Text-Processing?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Writing-Text-Processing/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Writing-Text-Processing?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Writing-Text-Processing/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-AI-Writing-Text-Processing" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Writing-Text-Processing/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License" /></a>
@@ -59,7 +59,7 @@ The sector exhibits a distinct **dual-layer market dynamic**:
 
 ## 🔓 Open-Source GitHub Projects
 
-Curated open-source projects for self-hosting, NLP engineering, grammar error correction (GEC), text extraction, and agent-driven document authoring—**sorted by GitHub stars (descending)**:
+Curated open-source projects for self-hosting, NLP engineering, grammar error correction (GEC), text extraction, and agent-driven document authoring—**sorted by GitHub_Stars (descending)**:
 
 | 📦 Repository & Link | ⭐ Stargazers Badge | 📜 License | 💡 Focus & Key Capabilities |
 | :--- | :--- | :--- | :--- |
